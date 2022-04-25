@@ -9,7 +9,7 @@
 #### ***Growth Mindset-*** *Growth minset to me is always having an open mind to learning new things and pushing through adversity when I might have a tough time learning.*  
 1. Remember to never give up
 2. Active listening
-3. Ask question
+3. Ask questions
 
 
 
