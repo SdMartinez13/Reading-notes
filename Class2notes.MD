@@ -31,8 +31,12 @@ download it from the Mac App Store.
 >This is similar to VS Code, except made by GitHub. With Atom you can host and review code.
 
 5. Brackets
-
+>Brackets is a free text editor that’s available for download for
+Windows computers, Mac computers and Linux computers. It’s made
+and maintained by Adobe—Brackets only supports HTML, CSS and JavaScript, though
+more coding capabilities can be added through extensions.
 
 6. Sublime Text
->
+>Sublime Text enjoys a
+history of being fast and responsive while being extensible as well.
 
