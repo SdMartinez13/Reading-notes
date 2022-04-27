@@ -12,6 +12,8 @@
 
 <a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class4notes.md">class4notes</a>
 
+<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class5notes.md">class5notes</a>
+
 
 <br/>
 <br/>
