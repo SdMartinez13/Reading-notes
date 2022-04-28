@@ -8,22 +8,12 @@
 
 ## **Table of Contents**
 
-<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/Class2notes.MD">class2notes</a>
-
-<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class3notes.md">class3notes</a>
-
-<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class4notes.md">class4notes</a>
-
-<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class5notes.md">class5notes</a>
-
-<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class6notes.md">class6notes</a>
-
-<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class7notes.md">class7notes</a>
-
-<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class8notes.md">class8notes</a>
-
-<br/>
-<br/>
-<br/>
+* [class2Notes](Class2notes.MD)
+* [class3Notes](class3notes.md)
+* [class4Notes](class4notes.md)
+* [class5Notes](class5notes.md)
+* [class6Notes](class6notes.md)
+* [class7Notes](class7notes.md)
+* [class8Notes](class8notes.md)
 
 <https://sdmartinez13.github.io/Reading-notes/>
