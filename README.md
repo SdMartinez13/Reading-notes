@@ -20,6 +20,8 @@
 
 <a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class7notes.md">class7notes</a>
 
+<a href="https://github.com/SdMartinez13/Reading-notes/blob/main/class8notes.md">class8notes</a>
+
 <br/>
 <br/>
 <br/>
