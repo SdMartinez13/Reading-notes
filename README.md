@@ -39,6 +39,6 @@
 
 ***Table of Content***
 
-* 
+* [301-1 Notes](notes-301-1)
 
 [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
