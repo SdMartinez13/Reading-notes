@@ -42,5 +42,6 @@
 * [301-1 Notes](notes-301-1.md)
 * [301-2 Notes](notes-301-2.md)
 * [301-3 Notes](notes-301-3.md)
+* [301-4 Notes](notes-301-4.md)
 
 [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
