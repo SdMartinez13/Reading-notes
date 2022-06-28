@@ -50,6 +50,7 @@
 * [301-9 Notes](notes-301-9.md)
 * [301-10 Notes](notes-301-10.md)
 * [301-11 Notes](notes-301-11.md)
+* [301-12 Notes](notes-301-12.md)
 
 [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
 [My GitHub](https://github.com/SdMartinez13)
