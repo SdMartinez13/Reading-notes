@@ -53,6 +53,7 @@
 * [301-12 Notes](notes-301-12.md)
 * [301-13 Notes](notes-301-13.md)
 * [301-14 Notes](notes-301-14.md)
+* [301-15 Notes](notes-301-15.md)
 
 [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
 [My GitHub](https://github.com/SdMartinez13)
