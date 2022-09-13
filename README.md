@@ -6,7 +6,7 @@
 
 ## **Code 102 - Intro to Software Development**
 
-***Table of Content***
+***Table of Contents***
 
 * [class2Notes](Class2notes.MD)
 * [class3Notes](class3notes.md)
@@ -18,7 +18,7 @@
 
 ## **Code 201 - Foundations of Software Development**
 
-***Table of Content***
+***Table of Contents***
 
 * [class01notes](class-01.md)
 * [class02notes](class-02.md)
@@ -37,7 +37,7 @@
 
 ## **Code 301 - Intermediate Software Development**
 
-***Table of Content***
+***Table of Contents***
 
 * [301-1 Notes](notes-301-1.md)
 * [301-2 Notes](notes-301-2.md)
@@ -54,6 +54,10 @@
 * [301-13 Notes](notes-301-13.md)
 * [301-14 Notes](notes-301-14.md)
 * [301-15 Notes](notes-301-15.md)
+
+## **Code 401 - Advanced Software Development in Full-Stack JavaScript
+
+* [401-1 Notes](notes-401-1.md)
 
 [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
 [My GitHub](https://github.com/SdMartinez13)
