@@ -55,7 +55,7 @@
 * [301-14 Notes](notes-301-14.md)
 * [301-15 Notes](notes-301-15.md)
 
-## **Code 401 - Advanced Software Development in Full-Stack JavaScript
+## **Code 401 - Advanced Software Development in Full-Stack JavaScript**
 
 * [401-1 Notes](notes-401-1.md)
 
