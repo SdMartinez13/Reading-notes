@@ -59,5 +59,6 @@
 
 * [401-1 Notes](notes-401-1.md)
 
-* [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
-* [My GitHub](https://github.com/SdMartinez13)
+### [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
+
+### [My GitHub](https://github.com/SdMartinez13)
