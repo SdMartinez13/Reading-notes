@@ -19,16 +19,26 @@
 * Shortcuts-entered commands are stored in your history.  using the up and down keys you can select from your history, you can also edit by using the left/right keys to move the cursor.
 
 ### [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-* 
+
+* PWD-(pwd) Print Working directory, shows current working directory
+* LS-(ls) short for list, shows whats in the directory
+* (-l) long listing
+* (-) normal file (d) directory
+* (/etc) tells (ls) not to list current directory but to list that directory's contents
+* 2 types of paths: *absolute*-A file or directory location relative to where we currently are in the file system and *relative*-A file or directory location in relation to the root of the file system
+* (tidle) shortcut to home directory
+* (dot) reference to current directory
+* (dotdot) reference to parent directory
+* Tab completion auto complete action
 
 ### [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 * 
 
 ### [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
-*
+* 
 
 ### [File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
 * 
 
 ### [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
-*
+* 
