@@ -57,7 +57,11 @@
 
 ## **Code 401 - Advanced Software Development in Full-Stack JavaScript**
 
+***Table of Contents***
+
 * [401-1 Notes](notes-401-1.md)
+
+* [Growth Mindset] (Growth-Mindset.md)
 
 ### [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
 
