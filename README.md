@@ -61,7 +61,7 @@
 
 * [401-1 Notes](notes-401-1.md)
 
-* [Growth Mindset] (Growth-Mindset.md)
+* [Growth Mindset](Growth-Mindset.md)
 
 ### [My live reading notes site](<https://sdmartinez13.github.io/Reading-notes/>)
 
