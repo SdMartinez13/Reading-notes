@@ -32,13 +32,35 @@
 * Tab completion auto complete action
 
 ### [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-* 
+
+* types of extentions: .exe(executable), .txt(plain text), .png .gif .jpg(image)
+* Linux is case sesitive
+* use quotes ('') for file names with spaces
+* backslash ( \ ) escape (or nullify) the special meaning of the next character
 
 ### [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php)
-* 
+
+* manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept
+* invoke command by : man `<command to look up>`
+* search withing manual pages by : man -k`<search term>`
+* list all directory entries (including hidden files) we can use the option `-a` or `--all`
 
 ### [File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
-* 
+
+* to make a directory `mkdir [options] <Directory>`
+* examples of options to make a directory `mkdir /home/ryan/foo
+mkdir ./blah
+mkdir ../dir1
+mkdir ~/linuxtutorialwork/dir2`
+* `-p` which tells mkdir to make parent directories as needed
+* `-v` which makes mkdir tell us what it is doing
+* remove directory `rmdir [options] <Directory>`
+* creating a blank file `touch [options] <filename>`
+* to copy file or directory `cp [options] <source> <destination>`
+* move file or directory `mv [options] <source> <destination>`
+* rename file or directory: specify the destination to be the same directory as the source, but with a different name using the `mv` option
+* remove file and non empty directory `rm [options] <file>`
 
 ### [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
-* 
+
+* link to the cheat sheet above, as well in my notes
