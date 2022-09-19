@@ -63,6 +63,8 @@
 
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
+* [Engineering Readings](Engineering-Readings.md)
+
 * [Practice in Terminal](Practice-in-Terminal.md)
 
 * [Growth Mindset](Growth-Mindset.md)
