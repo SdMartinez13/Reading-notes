@@ -65,6 +65,8 @@
 
 * [Engineering Readings](Engineering-Readings.md)
 
+* [SQL Practice](SQL-Practice.md)
+
 * [Practice in Terminal](Practice-in-Terminal.md)
 
 * [Growth Mindset](Growth-Mindset.md)
