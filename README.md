@@ -59,7 +59,7 @@
 
 ***Table of Contents***
 
-* [401-1 Notes](notes-401-1.md)
+* [401-1 Node Ecosystem](notes-401-1.md)
 
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
