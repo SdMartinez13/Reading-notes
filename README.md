@@ -59,9 +59,11 @@
 
 ***Table of Contents***
 
-* [401-1 Node Ecosystem](notes-401-1.md)
+* [401-1 (Node Ecosystem)](notes-401-1.md)
 
-* [401-2 Express, NPM, TDD, CI/CD](notes-401-2.md)
+* [401-2 (Express, NPM, TDD, CI/CD)](notes-401-2.md)
+
+* [401-3 (Express REST API)](notes-401-3.md)
 
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
