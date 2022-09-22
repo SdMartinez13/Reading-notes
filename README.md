@@ -65,6 +65,8 @@
 
 * [401-3 (Express REST API)](notes-401-3.md)
 
+* [401-4 (Data Modeling)](notes-401-4.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
