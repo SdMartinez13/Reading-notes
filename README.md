@@ -67,6 +67,8 @@
 
 * [401-4 (Data Modeling)](notes-401-4.md)
 
+* [401-6(Authentication)](notes-401-6.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
