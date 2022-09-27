@@ -69,6 +69,8 @@
 
 * [401-6(Authentication)](notes-401-6.md)
 
+* [401-7(Bearer Authorization)](notes-401-7.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
