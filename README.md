@@ -71,6 +71,8 @@
 
 * [401-7(Bearer Authorization)](notes-401-7.md)
 
+* [401-8(Access Control (ACL))](notes-401-8.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
