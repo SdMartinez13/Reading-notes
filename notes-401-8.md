@@ -40,7 +40,6 @@
 
   2. Access Rights, or Authorization, is activated after a user successfully does what?
 
-
       * ***authenticated***
 
   3. Explain how RBAC might benefit a business.
