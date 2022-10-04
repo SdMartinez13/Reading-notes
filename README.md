@@ -75,6 +75,8 @@
 
 * [401-11(Event Driven Applications)](notes-401-11.md)
 
+* [401-12(Socket.io)](notes-401-12.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
