@@ -81,6 +81,8 @@
 
 * [401-16(AWS: Cloud Servers)](notes-401-16.md)
 
+* [401-17(AWS: S3 and Lambda)](notes-401-17.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
