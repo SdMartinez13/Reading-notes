@@ -83,6 +83,8 @@
 
 * [401-17(AWS: S3 and Lambda)](notes-401-17.md)
 
+* [401-18(AWS: API, Dynamo and Lambda)](notes-401-18.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
