@@ -1,6 +1,6 @@
 # Reading Notes
 
-## About ME
+## About Me
 
 ***Hello, my name is Stephen Martinez, My friends and family call me Steve.  I'm happy to be in this class and look forward to a rewarding and exciting career in Software Development.  On this page you will find my reading notes from all the courses I'm taking at [Code Fellows](https://www.codefellows.org/)***
 
