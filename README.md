@@ -85,7 +85,7 @@
 
 * [401-18(AWS: API, Dynamo and Lambda)](notes-401-18.md)
 
-* [401-19(AWS: Events)](notes-401-19.md.md)
+* [401-19(AWS: Events)](notes-401-19.md)
 
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
