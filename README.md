@@ -87,6 +87,8 @@
 
 * [401-19(AWS: Events)](notes-401-19.md)
 
+* [401-26(Component based UI)](notes-401-26.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
