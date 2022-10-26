@@ -91,6 +91,8 @@
 
 * [401-27(`useState()` Hook)](notes-401-27.md)
 
+* [401-28(Component Lifecycle/Hook)](notes-401-28.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
