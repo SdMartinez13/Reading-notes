@@ -93,6 +93,8 @@
 
 * [401-28(Component Lifecycle/Hook)](notes-401-28.md)
 
+* [401-29(Advanced State with Reducers)](notes-401-29.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
