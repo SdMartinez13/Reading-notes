@@ -95,6 +95,8 @@
 
 * [401-29(Advanced State with Reducers)](notes-401-29.md)
 
+* [401-31(Context API)](notes-401-31.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
