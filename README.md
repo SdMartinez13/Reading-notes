@@ -97,6 +97,8 @@
 
 * [401-31(Context API)](notes-401-31.md)
 
+* [401-36(Application State with Redux)](notes-401-36.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
