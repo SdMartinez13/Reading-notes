@@ -103,6 +103,8 @@
 
 * [401-38(Redux-Asynchronous Actions)](notes-401-38.md)
 
+* [401-39(Redux-Additional Topics)](notes-401-39.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
