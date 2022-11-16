@@ -109,6 +109,8 @@
 
 * [401-42(Ethics in Tech)](notes-401-42.md)
 
+* [401-42(Frameworks)](notes-401-43.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
