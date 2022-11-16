@@ -105,6 +105,10 @@
 
 * [401-39(Redux-Additional Topics)](notes-401-39.md)
 
+* [401-41(React Native)](notes-401-41.md)
+
+* [401-42(Ethics in Tech)](notes-401-42.md)
+
 * [Data Structures and Algorithms](Data-Structures-and-Algorithms.md)
 
 * [Engineering Readings](Engineering-Readings.md)
