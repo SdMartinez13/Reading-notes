@@ -97,6 +97,10 @@
 
 * [401-31(Context API)](notes-401-31.md)
 
+* [401-32(Context API-Behaviors)](notes-401-32.md)
+
+* [401-33(`<Login/> and <Auth/>`)](notes-401-33.md)
+
 * [401-36(Application State with Redux)](notes-401-36.md)
 
 * [401-37(Redux - Combined Reducers)](notes-401-37.md)
