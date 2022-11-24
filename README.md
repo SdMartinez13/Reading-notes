@@ -101,6 +101,8 @@
 
 * [401-33(`<Login/> and <Auth/>`)](notes-401-33.md)
 
+* [401-34(API Integration)](notes-401-34.md)
+
 * [401-36(Application State with Redux)](notes-401-36.md)
 
 * [401-37(Redux - Combined Reducers)](notes-401-37.md)
